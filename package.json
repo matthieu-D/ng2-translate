@@ -8,6 +8,7 @@
     "prepublish": "typings install && tsc && node make.js",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
+  version:"1.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/ocombe/ng2-translate.git"
